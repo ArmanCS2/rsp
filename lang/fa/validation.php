@@ -206,5 +206,6 @@ return [
         'recaptcha' => 'کپچا',
         'passwordConfirm'=>'تایید رمز',
         'tracking_code'=>'کد رهگیری',
+        'cart_number'=>'شماره کارت',
     ],
 ];
